@@ -12,7 +12,7 @@
 	"variables": {
 		"location": "[resourceGroup().location]",
 		"repoUrl": "https://github.com/Azure-Samples/functions-teams-incident-status-page-bot.git",
-		"branch": "master"
+		"branch": "main"
 	},
 	"resources": [{
 			"name": "[parameters('siteName')]",
